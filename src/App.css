@@ -1,0 +1,30 @@
+.auto{
+  background-color: black;
+  height: 100px;
+  border: 1px solid white;
+}
+.special{
+ width: 10%;
+ height: 50%;
+ vertical-align: middle;
+ margin-top: 20px;
+ margin-left: 10px;
+ font-size: medium;
+}
+.satya{
+  float: left;
+  margin-left: 30px;
+  margin-top: 10px;
+  background-color: blanchedalmond;
+}
+.sss{
+  background-color: bisque;
+  width: 100px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+
+}
+.sss:hover{
+  color: red;
+
+}
